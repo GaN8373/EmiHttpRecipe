@@ -1,0 +1,5 @@
+{
+  "itemGroup.emi_http_recipe": "Example Mod Tab",
+  "block.emi_http_recipe.example_block": "Example Block",
+  "item.emi_http_recipe.example_item": "Example Item"
+}
